@@ -1,1 +1,3 @@
-[{ "njs": "./project/main.njs", "js": "./project/src/out.js" }]
+[
+  { "njs": "./project/in.njs", "js": "./project/out.js" }
+]
